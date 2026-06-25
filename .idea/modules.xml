@@ -4,6 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaKurses.iml" filepath="$PROJECT_DIR$/JavaKurses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Level00_JavaBasics/Level00_JavaBasics.iml" filepath="$PROJECT_DIR$/Level00_JavaBasics/Level00_JavaBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level01_VariablenUndDatentypen/Level01_VariablenUndDatentypen.iml" filepath="$PROJECT_DIR$/Level01_VariablenUndDatentypen/Level01_VariablenUndDatentypen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level02_Ausgaben/Level02_Ausgaben.iml" filepath="$PROJECT_DIR$/Level02_Ausgaben/Level02_Ausgaben.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level03_Eingaben/Level03_Eingaben.iml" filepath="$PROJECT_DIR$/Level03_Eingaben/Level03_Eingaben.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level04_Verzweigungen/Level04_Verzweigungen.iml" filepath="$PROJECT_DIR$/Level04_Verzweigungen/Level04_Verzweigungen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level05_Schleifen/Level05_Schleifen.iml" filepath="$PROJECT_DIR$/Level05_Schleifen/Level05_Schleifen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level06_ArraysTutorial/Level06_ArraysTutorial.iml" filepath="$PROJECT_DIR$/Level06_ArraysTutorial/Level06_ArraysTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level07_ArrayListTutorial/Level07_ArrayListTutorial.iml" filepath="$PROJECT_DIR$/Level07_ArrayListTutorial/Level07_ArrayListTutorial.iml" />
     </modules>
   </component>
 </project>
