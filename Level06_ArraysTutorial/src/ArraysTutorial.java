@@ -116,6 +116,9 @@ public class ArraysTutorial {
 
 
 
+        // Ein Array speichert mehrere Werte desselben Datentyps an nummerierten Positionen.
+        // Mit einer for-Schleife läuft man diese Positionen nacheinander ab. Die Laufvariable i
+        // ist dabei der aktuelle Index und farben[i] liefert den Wert, der an dieser Position gespeichert ist.
 
 
     }

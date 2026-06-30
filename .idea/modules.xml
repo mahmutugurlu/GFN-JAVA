@@ -11,6 +11,10 @@
       <module fileurl="file://$PROJECT_DIR$/Level05_Schleifen/Level05_Schleifen.iml" filepath="$PROJECT_DIR$/Level05_Schleifen/Level05_Schleifen.iml" />
       <module fileurl="file://$PROJECT_DIR$/Level06_ArraysTutorial/Level06_ArraysTutorial.iml" filepath="$PROJECT_DIR$/Level06_ArraysTutorial/Level06_ArraysTutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/Level07_ArrayListTutorial/Level07_ArrayListTutorial.iml" filepath="$PROJECT_DIR$/Level07_ArrayListTutorial/Level07_ArrayListTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level08_Methoden/Level08_Methoden.iml" filepath="$PROJECT_DIR$/Level08_Methoden/Level08_Methoden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level09_StringMethoden/Level09_StringMethoden.iml" filepath="$PROJECT_DIR$/Level09_StringMethoden/Level09_StringMethoden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level10_Fehlerbehandlung/Level10_Fehlerbehandlung.iml" filepath="$PROJECT_DIR$/Level10_Fehlerbehandlung/Level10_Fehlerbehandlung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level11_OOP/Level11_OOP.iml" filepath="$PROJECT_DIR$/Level11_OOP/Level11_OOP.iml" />
     </modules>
   </component>
 </project>

@@ -22,7 +22,7 @@ public class Aufgabe5 {
             System.out.println();
         }
 
-        // 🔹 TRANSPOSE
+
         System.out.println("Nachher:");
         for (int i = 0; i < zahlenMatrix.length; i++) {
             for (int j = 0; j < zahlenMatrix[i].length; j++) {
