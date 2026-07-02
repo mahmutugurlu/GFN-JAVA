@@ -15,6 +15,10 @@
       <module fileurl="file://$PROJECT_DIR$/Level09_StringMethoden/Level09_StringMethoden.iml" filepath="$PROJECT_DIR$/Level09_StringMethoden/Level09_StringMethoden.iml" />
       <module fileurl="file://$PROJECT_DIR$/Level10_Fehlerbehandlung/Level10_Fehlerbehandlung.iml" filepath="$PROJECT_DIR$/Level10_Fehlerbehandlung/Level10_Fehlerbehandlung.iml" />
       <module fileurl="file://$PROJECT_DIR$/Level11_OOP/Level11_OOP.iml" filepath="$PROJECT_DIR$/Level11_OOP/Level11_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level12_OOPVertiefung/Level12_OOPVertiefung.iml" filepath="$PROJECT_DIR$/Level12_OOPVertiefung/Level12_OOPVertiefung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Aufgaben/OOP_Aufgaben.iml" filepath="$PROJECT_DIR$/OOP_Aufgaben/OOP_Aufgaben.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Aufgaben/OOP_Interfaces/OOP_Interfaces.iml" filepath="$PROJECT_DIR$/OOP_Aufgaben/OOP_Interfaces/OOP_Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_Aufgaben/OOP_Produkt_Warenkorb/OOP_Produkt_Warenkorb.iml" filepath="$PROJECT_DIR$/OOP_Aufgaben/OOP_Produkt_Warenkorb/OOP_Produkt_Warenkorb.iml" />
     </modules>
   </component>
 </project>

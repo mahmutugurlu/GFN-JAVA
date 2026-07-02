@@ -79,6 +79,7 @@ public class Aufgabe_BankKonto {
 
 
     public Aufgabe_BankKonto(Scanner scanner) {
+
         this.scanner = scanner;
     }
 

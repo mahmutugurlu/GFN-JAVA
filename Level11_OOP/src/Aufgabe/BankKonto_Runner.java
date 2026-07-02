@@ -28,10 +28,10 @@ public class BankKonto_Runner  {
 
 
 
-// seçim
+
           int auswähl = konto.auswähl(scanner);
 
-// işlem
+// --**
           if (auswähl == 1) {
               double neuKontoStand = konto.einzahlen(scanner);
               konto.setKontostand(neuKontoStand);
